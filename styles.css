@@ -19,8 +19,8 @@ body {
 }
 
 .screen {
-  --top-height: min(170px, 20.408163vw);
-  --bottom-height: min(34px, 4.081633vw);
+  --top-height: min(112px, 12.389381vw);
+  --bottom-height: 1px;
   position: relative;
   width: 100%;
   max-width: 833px;
@@ -81,3 +81,4 @@ body {
   user-select: none;
   -webkit-user-drag: none;
 }
+
